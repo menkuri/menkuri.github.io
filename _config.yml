@@ -1,0 +1,7 @@
+title: めんくり GitHub Pages
+description: GitHub Pagesでのテスト用サイトです。
+lang: ja-JP
+theme: jekyll-theme-slate
+
+plugins:
+  - jekyll-sitemap
